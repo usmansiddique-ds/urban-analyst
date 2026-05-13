@@ -1,0 +1,10 @@
+{
+  "total_buildings": 190,
+  "total_green_spaces": 20,
+  "total_road_segments": 450,
+  "grid_cells": 36,
+  "avg_building_density": 1.88,
+  "max_building_density": 6.25,
+  "avg_green_fraction": 0.235,
+  "avg_connectivity": 0.7361
+}
