@@ -14,7 +14,7 @@ A Python CLI tool that fetches real OpenStreetMap data and produces geospatial a
 ## Setup
 
 ### 1. Clone the repository
-git clone https://github.com/USMAN SIDDIQUE/urban-analyst.git
+git clone https://github.com/usmansiddique-ds/urban-analyst.git
 cd urban-analyst
 
 ### 2. Create virtual environment
